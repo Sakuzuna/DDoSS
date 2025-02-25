@@ -3,7 +3,7 @@
 A Powerful and Modular DDoS Testing Tool with a Sleek Web Interface
 
 # 🌟 Features
-# 🎯 Multiple Attack Methods:
+🎯 Multiple Attack Methods:
 
 HTTP/Bypass 🕵️‍♂️
 
