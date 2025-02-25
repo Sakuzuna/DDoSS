@@ -1,5 +1,4 @@
-
-# 🚀 DDoS Tool 🚀
+# 🚀 DDoSS Tool 🚀
 A Powerful and Modular DDoS Testing Tool with a Sleek Web Interface
 
 # 🌟 Features
