@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DDoS Tool</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>DDoS Tool</h1>
+        <input type="text" id="targetUrl" placeholder="Enter target URL">
+        <select id="attackMethod">
+            <option value="http/bypass">HTTP/Bypass</option>
+            <option value="cloudflare">Cloudflare</option>
+            <option value="firewall">Firewall</option>
+            <option value="ddos-guard">DDoS-Guard</option>
+        </select>
+        <button id="startAttack">Start Attack</button>
+        <button id="stopAttack" disabled>Stop Attack</button>
+        <div class="log" id="logBox"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
